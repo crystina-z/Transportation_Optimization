@@ -1,0 +1,11 @@
+<configuration>
+    <input>
+        <net-file value="tl.net.xml"/>
+        <route-files value="tl.rou.xml"/>
+				<gui-settings-file value="tl.settings.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="10000"/>
+    </time>
+</configuration>

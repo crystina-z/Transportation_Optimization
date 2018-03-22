@@ -1,0 +1,15 @@
+<edges>
+
+	<edge id="EO" from="C" to="E" numLanes="3" />
+	<edge id="EI" from="E" to="C" numLanes="3" />
+
+	<edge id="WO" from="C" to="W" numLanes="3" />
+	<edge id="WI" from="W" to="C" numLanes="3" />
+
+	<edge id="NO" from="C" to="N" numLanes="3" />
+	<edge id="NI" from="N" to="C" numLanes="3" />
+
+	<edge id="SO" from="C" to="S" numLanes="3" />
+	<edge id="SI" from="S" to="C" numLanes="3" />
+
+</edges>
